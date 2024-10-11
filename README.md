@@ -2,6 +2,22 @@
 
 A new Flutter project.
 
+## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/ss_wbtoon/1.jpg" alt="Screenshot 1" width="300" style="margin-right: 20px;">
+  <img src="assets/ss_wbtoon/2.jpg" alt="Screenshot 2" width="300" style="margin-left: 20px;">
+</div>
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/ss_wbtoon/3.jpg" alt="Screenshot 1" width="300" style="margin-right: 20px;">
+  <img src="assets/ss_wbtoon/4.jpg" alt="Screenshot 2" width="300" style="margin-left: 20px;">
+</div>
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
