@@ -11,7 +11,7 @@ A new Flutter project.
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/ss_wbtoon/3.jpg" alt="Screenshot 1" width="300" style="margin-right: 20px;">
+  <img src="assets/ss_wbtoon/5.jpg" alt="Screenshot 1" width="300" style="margin-right: 20px;">
   <img src="assets/ss_wbtoon/4.jpg" alt="Screenshot 2" width="300" style="margin-left: 20px;">
 </div>
 
